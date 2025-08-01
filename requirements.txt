@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+groq
+langchain
+langchain-groq
+python-dotenv
+pandas
+plotly
+requests
+email-validator
+
