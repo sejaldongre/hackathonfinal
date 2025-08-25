@@ -1,4 +1,4 @@
-# 🚀 HackaAIverse 2024 - Complete Project Guide
+# 🚀 HackaAIverse 2025 - Complete Project Guide
 
 ## ⚡ QUICK START (New Developer)
 
